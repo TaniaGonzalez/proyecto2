@@ -1,0 +1,17 @@
+.divbase{ 
+    width: 400px; 
+    height: 400px;
+}
+#div1{
+    background-color:red;
+}
+
+#div2{
+    background-color: black;
+}
+#div3{
+    background-color: blue;
+}
+#div4{
+    background-color: blueviolet;
+}
